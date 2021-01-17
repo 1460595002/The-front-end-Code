@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build"
+  },
+  "name": "react-zf-umi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@umijs/preset-react": "^1.7.12",
+    "react": "^17.0.1",
+    "umi": "^3.3.5"
+  }
+}
