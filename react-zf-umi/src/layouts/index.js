@@ -26,10 +26,10 @@ export default class BasicLayout extends React.Component {
               <Menu.Item key="3">Alex</Menu.Item>
             </SubMenu>
             <Menu.Item key="4" icon={<PieChartOutlined />}>
-              Option 1
+              Option 1 
             </Menu.Item>
             <Menu.Item key="5" icon={<DesktopOutlined />}>
-              Option 2
+           管理
             </Menu.Item>
             <SubMenu key="sub2" icon={<UserOutlined />} title="User">
               <Menu.Item key="6">Tom</Menu.Item>

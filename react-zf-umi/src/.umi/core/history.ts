@@ -1,5 +1,5 @@
 // @ts-nocheck
-import { createBrowserHistory, History } from 'E:/q-Code/react-zf-umi/node_modules/@umijs/preset-built-in/node_modules/@umijs/runtime';
+import { createBrowserHistory, History } from 'E:/q-Code/ReactCode/react-zf-umi/node_modules/@umijs/preset-built-in/node_modules/@umijs/runtime';
 
 let options = {
   "basename": "/"

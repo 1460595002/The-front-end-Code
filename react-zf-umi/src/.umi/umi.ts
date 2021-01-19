@@ -4,8 +4,8 @@ import '@@/core/devScripts';
 import { plugin } from './core/plugin';
 import './core/pluginRegister';
 import { createHistory } from './core/history';
-import { ApplyPluginsType } from 'E:/q-Code/react-zf-umi/node_modules/@umijs/preset-built-in/node_modules/@umijs/runtime';
-import { renderClient } from 'E:/q-Code/react-zf-umi/node_modules/@umijs/renderer-react/dist/index.js';
+import { ApplyPluginsType } from 'E:/q-Code/ReactCode/react-zf-umi/node_modules/@umijs/preset-built-in/node_modules/@umijs/runtime';
+import { renderClient } from 'E:/q-Code/ReactCode/react-zf-umi/node_modules/@umijs/renderer-react/dist/index.js';
 import { getRoutes } from './core/routes';
 
 

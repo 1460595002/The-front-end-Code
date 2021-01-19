@@ -1,13 +1,13 @@
 // @ts-nocheck
 import React from 'react';
-import initialState from 'E:/q-Code/react-zf-umi/src/.umi/plugin-initial-state/models/initialState';
+import initialState from 'E:/q-Code/ReactCode/react-zf-umi/src/.umi/plugin-initial-state/models/initialState';
 
 // @ts-ignore
-import Dispatcher from 'E:/q-Code/react-zf-umi/node_modules/@umijs/plugin-model/lib/helpers/dispatcher';
+import Dispatcher from 'E:/q-Code/ReactCode/react-zf-umi/node_modules/@umijs/plugin-model/lib/helpers/dispatcher';
 // @ts-ignore
-import Executor from 'E:/q-Code/react-zf-umi/node_modules/@umijs/plugin-model/lib/helpers/executor';
+import Executor from 'E:/q-Code/ReactCode/react-zf-umi/node_modules/@umijs/plugin-model/lib/helpers/executor';
 // @ts-ignore
-import { UmiContext } from 'E:/q-Code/react-zf-umi/node_modules/@umijs/plugin-model/lib/helpers/constant';
+import { UmiContext } from 'E:/q-Code/ReactCode/react-zf-umi/node_modules/@umijs/plugin-model/lib/helpers/constant';
 
 export const models = { '@@initialState': initialState,  };
 
